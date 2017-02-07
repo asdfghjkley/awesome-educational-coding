@@ -5,6 +5,7 @@
 Curated list of explaining various subjects for programmers and through the code examples
 
 - [Announcing AeroPython!](http://lorenabarba.com/blog/announcing-aeropython/) (aerodynamics)
+- [12 Steps to Navier-Stokes](https://github.com/barbagroup/CFDPython)
 - [Functional differential geometry](https://mitpress.mit.edu/books/functional-differential-geometry)
 - [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) (bayesian statistics)
 - [Kalman and bayesian filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
